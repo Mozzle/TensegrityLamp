@@ -27,5 +27,7 @@ https://en.wikipedia.org/wiki/Tensegrity
 
 If you do not have exact same components that I do, you can calculate your resistor values here: [DigiKey Calculator.](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor) Make sure to use a forward voltage value of 4.8V, since there are two series LEDs filament strips. The parallel-series combination of resistors is not necessary if you have resistors with an adequate power rating. The fact that the LED filament strips are in a 2x2 parallel-series combination is necessary, however.
 
+The LED filament strips are rated for 200mA, but I only ran mine at 90mA, so you could make your lamp much brighter if you wished to.
+
 ## Build Guide
 Will do this hopefully in the next couple of days
