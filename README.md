@@ -1,6 +1,8 @@
 # TensegrityLamp
 A 3D-printable tensegrity object that uses LED filament as the tensioning material
 
+https://en.wikipedia.org/wiki/Tensegrity
+
 ![Tensegrity Lamp](./images/5042.jpg)
 
 ## Materials List
