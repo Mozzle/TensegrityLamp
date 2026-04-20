@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/Tensegrity
 	- You could also do a 9V power supply, but probably not any less than that. Would require recalculating resistors
 - [1x 1K Ohm Potentiometer](https://a.co/d/0gW3C4QP)
 - [M3 Screws](https://a.co/d/088Ue2zd)
+- Electrical Tape/Shrink tubing
 
 ## Electrical Diagram
 ![Electrical Diagram](./images/Lamp_Circuit.jpg)
